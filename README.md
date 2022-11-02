@@ -3,9 +3,10 @@
 para correr el juego debes ejecutar
 
 ```sh
+ git clone
  cd game
- python3 main.py
  sorce venv/bin/active
  pip install -r requirements.txt
+ python3 main.py
 
 ```
